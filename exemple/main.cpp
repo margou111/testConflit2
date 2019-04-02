@@ -45,7 +45,7 @@ void main()
 
 void fonctionTestConflit()
 {
-
+	cout << "margou 1 \n";
 }
 
 void fonction1()
