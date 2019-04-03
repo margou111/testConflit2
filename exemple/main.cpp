@@ -49,6 +49,7 @@ void fonctionTestConflit()
 	cout << "margou 1 \n";
 
 	cout << "test2 conflit margou";
+	cout << "test2 conflit margou encore";
 
 }
 
