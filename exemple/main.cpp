@@ -48,6 +48,8 @@ void fonctionTestConflit()
 	cout << "compte2git 1 \n";
 	cout << "margou 1 \n";
 
+	cout << "test2 conflit margou";
+
 }
 
 void fonction1()
